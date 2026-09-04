@@ -6,8 +6,25 @@ En esta organización se podrán encontrar los repositorios con el código imple
 
 ## Información del grupo
 
-* **Cuatrimestre de cursada**: 2C2026
-* **Correctores asignados**: 
+### Cuatrimestre de cursada: 2C2026
+### **Correctores asignados**:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="220px">
+        <b>Pratto Florencia</b><br>
+        <sub>📧 fpratto@fi.uba.ar</sub>
+      </td>
+      <td align="center" width="220px">
+        <b>Utrera Máximo</b><br>
+        <sub>📧 mutrera@fi.uba.ar</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ### Integrantes
 
